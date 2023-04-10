@@ -27,4 +27,5 @@ as variáveis para visualização dos gráficos e tabelas.</p>
 visualizar as informações de forma clara e interativa no dashboard.</p>
 
 <h3>OBS:</h3>
-<p>Não consegui criar o dash no colab porém tudo funciona até chegar no dash.</p>
+<p>Não consegui criar o dash no colab porém tudo funciona até chegar no dash.
+Link: https://colab.research.google.com/drive/1MK0eLSZNEmlZ87GDo3R_jTpmB3PM3kUm</p>
